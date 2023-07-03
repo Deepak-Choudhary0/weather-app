@@ -81,3 +81,4 @@ Search for different cities to retrieve their weather information.
 ## Contributing
 Contributions are welcome! If you find any bugs or want to suggest enhancements, please open an issue or submit a pull request.
 
+
