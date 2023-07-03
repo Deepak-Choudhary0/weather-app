@@ -1,0 +1,15 @@
+.input {
+    /* Your custom styles for the input element */
+    /* Example styles */
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+.form{
+  margin: 20px;
+  background-color: #f2f2f2;
+  border-radius: 18px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
